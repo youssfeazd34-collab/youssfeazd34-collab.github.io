@@ -1,0 +1,33 @@
+=== اسم التطبيق / App name (max 30) ===
+قرد الأدغال  |  Jungle Monkey
+
+=== وصف قصير / Short description (max 80) ===
+AR: تأرجح بين الحبال، وتفادى الطيور، وهرب من القرد الأسود!
+EN: Swing through the jungle, dodge birds and escape the black monkey!
+
+=== وصف كامل / Full description ===
+AR:
+تأرجح بين الحبال في الأدغال بيديك! المس الشاشة لتفلت الحبل ويمسك قردك أقرب حبل.
+• 5 شخصيات قرود مختلفة
+• 4 مراحل: نهار، غروب، ليل، وضباب
+• قرد أسود يطاردك ويحاول إسقاطك
+• اجمع الموز وتفادى الطيور
+• 3 مستويات صعوبة
+• 4 لغات: العربية، English، Français، Español
+• بدون إعلانات وبدون إنترنت
+
+EN:
+Swing from vine to vine with your own two hands! Tap to let go and your monkey grabs the nearest vine.
+• 5 different monkeys
+• 4 stages: day, sunset, night and mist
+• A black monkey that chases you and tries to make you fall
+• Collect bananas and dodge the birds
+• 3 difficulty levels
+• 4 languages: Arabic, English, French, Spanish
+• No ads, works offline
+
+=== التصنيف / Category ===
+Games > Arcade   (Casual also fits)
+
+=== Data safety ===
+No data collected, no data shared. No permissions requested.

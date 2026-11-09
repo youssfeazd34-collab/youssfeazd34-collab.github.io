@@ -1,0 +1,7 @@
+{
+  "appId": "com.yourname.junglemonkey",
+  "appName": "قرد الأدغال",
+  "webDir": "www",
+  "backgroundColor": "#143626",
+  "android": { "backgroundColor": "#143626" }
+}
